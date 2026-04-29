@@ -15,7 +15,6 @@ public class FilmeController : ControllerBase
         filmes.Add(filme);
         Console.WriteLine(filme.Titulo);
         Console.WriteLine(filme.Duracao);
-
     }
 
 }
